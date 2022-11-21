@@ -73,6 +73,10 @@ header {
         padding-top: 5rem;
     }
 
+    .header__container .me {
+        width: 20rem;
+    }
+
     .header__socials, .header__scroll-down {
         display: none;
     }
